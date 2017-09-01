@@ -13,8 +13,9 @@ maintained by Members who are added by the TC and CC on an ongoing basis.
 
 Individuals identified by the TC as making significant and valuable
 contributions of any kind across any Ayo.js repository may be made Members and
-given commit access to the relevant project. Activities taken into consideration
-include (but are not limited to) the quality of:
+given commit access to the relevant project, as well as invited into the
+GitHub organization. Activities taken into consideration include
+(but are not limited to) the quality of:
 
 * code commits and pull requests
 * documentation commits and pull requests
@@ -114,7 +115,7 @@ resolve issues where there is no consensus. They are elected on a 1-year term,
 during which they can choose to resign at any time. In the event that this
 happens, reelections immediately taken into consideration.
 
-There should always be multiple EFAs, a recommended number is 4.
+There should always be multiple EFAs, a recommended number is 3-5.
 
 EFAs have the intellectual authority to overrule the TC and the CC on issues
 where no consensus can be reached by the group in question or by both. They do
