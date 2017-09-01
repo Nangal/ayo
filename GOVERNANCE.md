@@ -1,7 +1,10 @@
 # Ayo.js Project Governance
 
-The Ayo.js project is governed by its Members, including a Technical Committee (TC) which is responsible for high-level technical guidance of the
-project, a Community Committee (CC) which handles non-technical matters, and a group of Elected Final Arbiters (EFA) which have the responsibility of having the final words on issues where it is required.
+The Ayo.js project is governed by its Members, including a Technical Committee
+(TC) which is responsible for high-level technical guidance of the project, a
+Community Committee (CC) which handles non-technical matters, and a group of 
+Elected Final Arbiters (EFA) which have the responsibility of having the final
+words on issues where it is required.
 
 ## Members
 
@@ -9,9 +12,9 @@ The [ayo](https://github.com/ayo) GitHub organization is
 maintained by Members who are added by the TC and CC on an ongoing basis.
 
 Individuals identified by the TC as making significant and valuable
-contributions of any kind across any Ayo.js repository may be made Members and given
-commit access to the project. Activities taken into consideration include (but
-are not limited to) the quality of:
+contributions of any kind across any Ayo.js repository may be made Members and
+given commit access to the project. Activities taken into consideration include
+(but are not limited to) the quality of:
 
 * code commits and pull requests
 * documentation commits and pull requests
@@ -80,8 +83,8 @@ this project, including:
 
 ## Community Committee
 
-The Community Committee (CC) is responsible for handling issues regarding the broad
-community of the Ayo.js project. This includes, but is not limited to:
+The Community Committee (CC) is responsible for handling issues regarding the
+broad community of the Ayo.js project. This includes, but is not limited to:
 
 * Evangelism (this includes outward appearance, social media, etc)
 * Conferences
@@ -93,22 +96,23 @@ community of the Ayo.js project. This includes, but is not limited to:
 
 ### Correspondence between TC and CC
 
-The TC and the CC are normally completely independent from each other, however in the
-event where an issue arises that crosses both of their areas of expertise, a joint
-action is required. In these events, none of the two groups may make a final decision
-until the other agrees.
+The TC and the CC are normally completely independent from each other, however
+in the event where an issue arises that crosses both of their areas of
+expertise, a joint action is required. In these events, none of the two groups
+may make a final decision until the other agrees.
 
 ## Elected Final Arbiters
 
-Elected Final Arbiters (EFA) are Members of the Ayo.js projects that serve to resolve issues
-where there is no consensus. They are elected on a 1-year term, during which they can choose
-to resign at any time. In the event that this happens, reelections immediately taken into
-consideration.
+Elected Final Arbiters (EFA) are Members of the Ayo.js projects that serve to
+resolve issues where there is no consensus. They are elected on a 1-year term,
+during which they can choose to resign at any time. In the event that this
+happens, reelections immediately taken into consideration.
 
 There should always be multiple EFAs, a recommended number is 4.
 
-EFAs have the intellectual authority to overrule the TC and the CC on issues where no consensus
-can be reached by the group in question or by both. They do not place above the two groups in the hierarchy.
+EFAs have the intellectual authority to overrule the TC and the CC on issues
+where no consensus can be reached by the group in question or by both. They do
+not place above the two groups in the hierarchy.
 
 ## Consensus Seeking Process
 
