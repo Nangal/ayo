@@ -13,8 +13,8 @@ maintained by Members who are added by the TC and CC on an ongoing basis.
 
 Individuals identified by the TC as making significant and valuable
 contributions of any kind across any Ayo.js repository may be made Members and
-given commit access to the project. Activities taken into consideration include
-(but are not limited to) the quality of:
+given commit access to the relevant project. Activities taken into consideration
+include (but are not limited to) the quality of:
 
 * code commits and pull requests
 * documentation commits and pull requests
@@ -81,6 +81,9 @@ this project, including:
 
 * [Current list of TC members](./README.md#current-project-team-members)
 
+All TC members are owners of the Ayo.js GitHub organization, and also have admin
+rights in the Ayo.js Discord server.
+
 ## Community Committee
 
 The Community Committee (CC) is responsible for handling issues regarding the
@@ -93,6 +96,9 @@ broad community of the Ayo.js project. This includes, but is not limited to:
 * Moderation
 
 * [Current list of CC members](./README.md#current-project-team-members)
+
+All CC members are owners of the Ayo.js GitHub organization, and also have admin
+rights in the Ayo.js Discord server.
 
 ### Correspondence between TC and CC
 
@@ -112,7 +118,8 @@ There should always be multiple EFAs, a recommended number is 4.
 
 EFAs have the intellectual authority to overrule the TC and the CC on issues
 where no consensus can be reached by the group in question or by both. They do
-not place above the two groups in the hierarchy.
+not place above the two groups in the hierarchy, for they are Members. A EFA
+should not be a member of the TC or the CC, such as not to take sides.
 
 ## Consensus Seeking Process
 
