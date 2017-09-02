@@ -48,12 +48,12 @@ be accepted unless:
   This should only happen if disagreements between Members cannot be
   resolved through discussion.
 
-Collaborators may opt to elevate significant or controversial modifications to
+Members may opt to elevate significant or controversial modifications to
 the TC by assigning the `tc-review` label to a pull request or issue. The
 TC should serve as the final arbiter where required.
 
-* [Current list of Collaborators](./README.md#current-project-team-members)
-* [A guide for Collaborators](./COLLABORATOR_GUIDE.md)
+* [Current list of Members](./README.md#current-project-team-members)
+* [A guide for Members](./COLLABORATOR_GUIDE.md)
 
 ### Member Activities
 
@@ -66,7 +66,7 @@ Typical activities of a Member include:
 * merging pull requests
 
 The TC periodically reviews the Member list to identify inactive
-Collaborators. Past Members are typically given _Emeritus_ status. Emeriti
+Members. Past Members are typically given _Emeritus_ status. Emeriti
 may request that the TC restore them to active status.
 
 ## Technical Committee
@@ -78,7 +78,7 @@ this project, including:
 * Project governance
 * Contribution policy
 * GitHub repository hosting
-* Maintaining the list of additional Collaborators
+* Maintaining the list of additional Members
 
 * [Current list of TC members](./README.md#current-project-team-members)
 
@@ -117,10 +117,10 @@ happens, reelections immediately taken into consideration.
 
 There should always be multiple EFAs, a recommended number is 3-5.
 
-EFAs have the intellectual authority to overrule the TC and the CC on issues
-where no consensus can be reached by the group in question or by both. They do
-not place above the two groups in the hierarchy, for they are Members. A EFA
-should not be a member of the TC or the CC, such as not to take sides.
+EFAs have the authority to establish a decisive vote on issues where no
+consensus can be reached by the TC or CC. They do not place above the two
+groups in the hierarchy, for they are Members. A EFA should not be a member
+of the TC or the CC, such as not to take sides.
 
 ## Consensus Seeking Process
 
