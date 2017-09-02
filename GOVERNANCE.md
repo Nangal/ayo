@@ -1,17 +1,17 @@
 # Ayo.js Project Governance
 
-The Ayo.js project is governed by its Members, including a Technical Committee
-(TC) which is responsible for high-level technical guidance of the project, a
-Community Committee (CC) which handles non-technical matters, and a group of 
-Elected Final Arbiters (EFA) which have the responsibility of having the final
-words on issues where it is required.
+The Ayo.js project is governed by its Members, a group of committees that handle
+top-level matters such as technical direction and community management, and on
+occasion a group of temporary Elected Final Arbiters (EFA) which have the
+responsibility of holding a decisive vote in situations where no consensus can
+be reached.
 
 ## Members
 
 The [ayo](https://github.com/ayo) GitHub organization is
-maintained by Members who are added by the TC and CC on an ongoing basis.
+maintained by Members who are added by the committees on an ongoing basis.
 
-Individuals identified by the TC as making significant and valuable
+Individuals identified as making significant and valuable
 contributions of any kind across any Ayo.js repository may be made Members and
 given commit access to the relevant project, as well as invited into the
 GitHub organization. Activities taken into consideration include
@@ -26,7 +26,7 @@ GitHub organization. Activities taken into consideration include
 * other participation in the wider Ayo.js community
 
 If individuals making valuable contributions do not believe they have been
-considered for commit access, they may log an issue or contact a TC or CC member
+considered for commit access, they may log an issue or contact a committee
 directly.
 
 Modifications of the contents of the ayojs/ayo repository are made on
@@ -44,13 +44,14 @@ be accepted unless:
 * Discussions and/or additional changes result in no Members objecting to
   the change. Previously-objecting Members do not necessarily have to
   sign-off on the change, but they should not be opposed to it.
-* The change is escalated to the TC and the TC votes to approve the change.
+* The change is escalated to the Technical Committee and the Technical
+  Committee votes to approve the change.
   This should only happen if disagreements between Members cannot be
   resolved through discussion.
 
 Members may opt to elevate significant or controversial modifications to
-the TC by assigning the `tc-review` label to a pull request or issue. The
-TC should serve as the final arbiter where required.
+the Technical Committee by assigning the `tc-review` label to a pull request or
+issue. The Technical Committee should serve as the final arbiter where required.
 
 * [Current list of Members](./README.md#current-project-team-members)
 * [A guide for Members](./COLLABORATOR_GUIDE.md)
@@ -65,65 +66,41 @@ Typical activities of a Member include:
 * participation in adjacent projects
 * merging pull requests
 
-The TC periodically reviews the Member list to identify inactive
-Members. Past Members are typically given _Emeritus_ status. Emeriti
-may request that the TC restore them to active status.
+Past Members are typically given _Emeritus_ status. Emeriti
+may request that they be restored to active status.
 
-## Technical Committee
+## Committees
 
-The Technical Committee (TC) has final authority over technical issues regarding
-this project, including:
+The Ayo.js project has multiple top-level committees that are responsible for
+managing a part of the project. These committees and their responsibilities are:
 
-* Technical direction
-* Project governance
-* Contribution policy
-* GitHub repository hosting
-* Maintaining the list of additional Members
+* Technical Committee (technical governance, the Ayo.js codebase)
+* Community Committee (community management, inclusivity, conduct and
+  enforcement)
+* Infrastructure Committee (website, test servers, github account, other
+  resources concerning project operation)
 
-* [Current list of TC members](./README.md#current-project-team-members)
+All committees should have at least 3 members at any time.
 
-All TC members are owners of the Ayo.js GitHub organization, and also have admin
-rights in the Ayo.js Discord server.
-
-## Community Committee
-
-The Community Committee (CC) is responsible for handling issues regarding the
-broad community of the Ayo.js project. This includes, but is not limited to:
-
-* Evangelism (this includes outward appearance, social media, etc)
-* Conferences
-* Meetups
-* Conduct
-* Moderation
-
-* [Current list of CC members](./README.md#current-project-team-members)
-
-All CC members are owners of the Ayo.js GitHub organization, and also have admin
-rights in the Ayo.js Discord server.
-
-### Correspondence between TC and CC
-
-The TC and the CC are normally completely independent from each other, however
-in the event where an issue arises that crosses both of their areas of
-expertise, a joint action is required. In these events, none of the two groups
-may make a final decision until the other agrees.
+The respective charters for the committees and their elections are documented in
+the [ayojs/charter][] repository.
 
 ## Elected Final Arbiters
 
-Elected Final Arbiters (EFA) are Members of the Ayo.js projects that serve to
-resolve issues where there is no consensus. They are elected on a 1-year term,
-during which they can choose to resign at any time. In the event that this
-happens, reelections immediately taken into consideration.
+Elected Final Arbiters (EFA) are Members of the Ayo.js project that serve to
+resolve issues where there is no consensus. They are elected on a per-issue
+basis.
 
 There should always be multiple EFAs, a recommended number is 3-5.
 
 EFAs have the authority to establish a decisive vote on issues where no
-consensus can be reached by the TC or CC. They do not place above the two
-groups in the hierarchy, for they are Members. A EFA should not be a member
-of the TC or the CC, such as not to take sides.
+consensus can be reached by the Project or the committees. They do not place
+above the committees in the hierarchy, for they are Members. A EFA should not be
+a member of any committee, such as not to take sides.
 
 ## Consensus Seeking Process
 
-The TC and the CC follow a [Consensus Seeking][] decision making model.
+The committees follow a [Consensus Seeking][] decision making model.
 
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
+[ayojs/charter]: https://github.com/ayojs/charter
