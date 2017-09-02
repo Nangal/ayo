@@ -63,7 +63,7 @@ Typical activities of a Member include:
 * helping users and novice contributors
 * contributing code and documentation changes that improve the project
 * reviewing and commenting on issues and pull requests
-* participation in adjacent projects
+* participation in other Ayo.js-related projects
 * merging pull requests
 
 Past Members are typically given _Emeritus_ status. Emeriti
