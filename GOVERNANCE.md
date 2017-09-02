@@ -100,7 +100,7 @@ a member of any committee, such as not to take sides.
 
 ## Consensus Seeking Process
 
-The committees follow a [Consensus Seeking][] decision making model.
+The committees and EFAs follow a [Consensus Seeking][] decision making model.
 
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [ayojs/charter]: https://github.com/ayojs/charter
