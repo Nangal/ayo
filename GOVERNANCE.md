@@ -6,18 +6,19 @@ The Ayo.js governance is split into multiple parts:
 * The core team, which is responsible for the high-level decisions
 * The moderation team, which enforces the Code of Conduct
 * Multiple sub-teams, which handle more specific matters
-* occasionally, EFA's (Elected Final Arbiters), which serve to break stalemates in consensus finding
+* occasionally, EFA's (Elected Final Arbiters), which serve to break stalemates
+  in consensus finding
 
 ## Members
 
 The [ayo](https://github.com/ayojs) GitHub organization is
 maintained by Members who are added on an ongoing basis.
 
-Individuals identified as making significant and valuable
-contributions of any kind across any Ayo.js repository may be made Members and
-given commit access to the relevant project, as well as invited into the
-GitHub organization. Activities taken into consideration include
-(but are not limited to) the quality of:
+Individuals identified as making significant and valuable contributions of any
+kind across any Ayo.js repository may be made Members and given commit access
+to the relevant project, as well as invited into the GitHub organization.
+Activities taken into consideration include (but are not limited to) the quality
+of:
 
 * code commits and pull requests
 * documentation commits and pull requests
@@ -71,9 +72,13 @@ may request that they be restored to active status.
 
 Teams exist in order to steward certain parts of the project.
 
-All team members are elected by method of volunteering. Any Member can volunteer for teams, or be nominated by a team member. All nominations are publicly reviewed and voted on by the existing team members.
+All team members are elected by method of volunteering. Any Member can volunteer
+for teams, or be nominated by a team member. All nominations are publicly
+reviewed and voted on by the existing team members.
 
-If a team member decides to step down, they can do so instantly. If a team member is found to be violating the project's Code of Conduct, they will be moderated and potentially permanently ejected from the team.
+If a team member decides to step down, they can do so instantly. If a team
+member is found to be violating the project's Code of Conduct, they will be
+moderated and potentially permanently ejected from the team.
 
 There should always be at least 3 members of any team.
 
@@ -81,15 +86,23 @@ There are a number of fixed teams:
 
 #### Core team
 
-The core team is a team with the purpose of deciding the general direction of the project and managing cross-cutting concerns. They only decide over the most high-level aspects, all other matters should be delegated to another, more specific team.
+The core team is a team with the purpose of deciding the general direction of
+the project and managing cross-cutting concerns. They only decide over the most
+high-level aspects, all other matters should be delegated to another, more
+specific team.
 
 #### Moderation team
 
-The moderation team serves to enforce the project's Code of Conduct and manage situations of conflict. There are no core team members on the moderation team, in order to not pick sides.
+The moderation team serves to enforce the project's Code of Conduct and manage
+situations of conflict. There are no core team members on the moderation team,
+in order to not pick sides.
 
 #### Sub-teams
 
-Other teams focus on one particular area of the project. They have full autonomy over said area, their decisions do not need to be approved by any core team member. Every sub-team needs to have one member that is also a member of the core team, in order to notice and manage cross-cutting concerns.
+Other teams focus on one particular area of the project. They have full autonomy
+over said area, their decisions do not need to be approved by any core team
+member. Every sub-team needs to have one member that is also a member of the
+core team, in order to notice and manage cross-cutting concerns.
 
 ## Elected Final Arbiters
 
