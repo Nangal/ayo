@@ -11,7 +11,7 @@ The Ayo.js governance is split into multiple parts:
 
 ## Members
 
-The [ayo](https://github.com/ayojs) GitHub organization is
+The [ayojs](https://github.com/ayojs) GitHub organization is
 maintained by Members who are added on an ongoing basis.
 
 Individuals identified as making significant and valuable contributions of any
@@ -25,15 +25,15 @@ of:
 * comments on issues and pull requests
 * contributions to the Ayo.js website
 * assistance provided to end users and novice contributors
-* participation in Working Groups
+* participation in team efforts
 * other participation in the wider Ayo.js community
 
 If individuals making valuable contributions do not believe they have been
-considered for commit access, they may log an issue or contact a committee
+considered for commit access, they may log an issue or contact a team
 directly.
 
-Modifications of the contents of the ayojs/ayo repository are made on
-a collaborative basis. Anybody with a GitHub account may propose a
+Modifications of the contents of any repository under the ayojs organization
+are made on a collaborative basis. Anybody with a GitHub account may propose a
 modification via pull request and it will be considered by the project
 Members. All pull requests must be reviewed and accepted by a
 Member with sufficient expertise who is able to take full
@@ -47,10 +47,9 @@ be accepted unless:
 * Discussions and/or additional changes result in no Members objecting to
   the change. Previously-objecting Members do not necessarily have to
   sign-off on the change, but they should not be opposed to it.
-* The change is escalated to the Technical Committee and the Technical
-  Committee votes to approve the change.
-  This should only happen if disagreements between Members cannot be
-  resolved through discussion.
+* The change is escalated to the responsible project team, which votes to
+  approve the change. This should only happen if disagreements between Members
+  cannot be resolved through discussion.
 
 * [Current list of Members](./README.md#current-project-team-members)
 * [A guide for Members](./COLLABORATOR_GUIDE.md)
@@ -60,7 +59,7 @@ be accepted unless:
 Typical activities of a Member include:
 
 * helping users and novice contributors
-* contributing code and documentation changes that improve the project
+* contributing code, documentation, and other changes that improve the project
 * reviewing and commenting on issues and pull requests
 * participation in other Ayo.js-related projects
 * merging pull requests
