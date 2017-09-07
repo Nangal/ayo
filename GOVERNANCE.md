@@ -1,15 +1,17 @@
 # Ayo.js Project Governance
 
-The Ayo.js project is governed by its Members, a group of committees that handle
-top-level matters such as technical direction and community management, and on
-occasion a group of temporary Elected Final Arbiters (EFA) which have the
-responsibility of holding a decisive vote in situations where no consensus can
-be reached.
+The Ayo.js governance is split into multiple parts:
+
+* The project Members
+* The core team, which is responsible for the high-level decisions
+* The moderation team, which enforces the Code of Conduct
+* Multiple sub-teams, which handle more specific matters
+* occasionally, EFA's (Elected Final Arbiters), which serve to break stalemates in consensus finding
 
 ## Members
 
-The [ayo](https://github.com/ayo) GitHub organization is
-maintained by Members who are added by the committees on an ongoing basis.
+The [ayo](https://github.com/ayojs) GitHub organization is
+maintained by Members who are added on an ongoing basis.
 
 Individuals identified as making significant and valuable
 contributions of any kind across any Ayo.js repository may be made Members and
@@ -49,10 +51,6 @@ be accepted unless:
   This should only happen if disagreements between Members cannot be
   resolved through discussion.
 
-Members may opt to elevate significant or controversial modifications to
-the Technical Committee by assigning the `tc-review` label to a pull request or
-issue. The Technical Committee should serve as the final arbiter where required.
-
 * [Current list of Members](./README.md#current-project-team-members)
 * [A guide for Members](./COLLABORATOR_GUIDE.md)
 
@@ -69,21 +67,29 @@ Typical activities of a Member include:
 Past Members are typically given _Emeritus_ status. Emeriti
 may request that they be restored to active status.
 
-## Committees
+## Teams
 
-The Ayo.js project has multiple top-level committees that are responsible for
-managing a part of the project. These committees and their responsibilities are:
+Teams exist in order to steward certain parts of the project.
 
-* Technical Committee (technical governance, the Ayo.js codebase)
-* Community Committee (community management, inclusivity, conduct and
-  enforcement)
-* Infrastructure Committee (website, test servers, github account, other
-  resources concerning project operation)
+All team members are elected by method of volunteering. Any Member can volunteer for teams, or be nominated by a team member. All nominations are publicly reviewed and voted on by the existing team members.
 
-All committees should have at least 3 members at any time.
+If a team member decides to step down, they can do so instantly. If a team member is found to be violating the project's Code of Conduct, they will be moderated and potentially permanently ejected from the team.
 
-The respective charters for the committees and their elections are documented in
-the [ayojs/charter][] repository.
+There should always be at least 3 members of any team.
+
+There are a number of fixed teams:
+
+#### Core team
+
+The core team is a team with the purpose of deciding the general direction of the project and managing cross-cutting concerns. They only decide over the most high-level aspects, all other matters should be delegated to another, more specific team.
+
+#### Moderation team
+
+The moderation team serves to enforce the project's Code of Conduct and manage situations of conflict. There are no core team members on the moderation team, in order to not pick sides.
+
+#### Sub-teams
+
+Other teams focus on one particular area of the project. They have full autonomy over said area, their decisions do not need to be approved by any core team member. Every sub-team needs to have one member that is also a member of the core team, in order to notice and manage cross-cutting concerns.
 
 ## Elected Final Arbiters
 
@@ -94,13 +100,12 @@ basis.
 There should always be multiple EFAs, a recommended number is 3-5.
 
 EFAs have the authority to establish a decisive vote on issues where no
-consensus can be reached by the Project or the committees. They do not place
-above the committees in the hierarchy, for they are Members. A EFA should not be
-a member of any committee, such as not to take sides.
+consensus can be reached by the team(s). They do not place
+above the teams in the hierarchy, for they are Members. A EFA should not be
+a member of the core team, such as not to take sides.
 
 ## Consensus Seeking Process
 
-The committees and EFAs follow a [Consensus Seeking][] decision making model.
+The teams and EFAs follow a [Consensus Seeking][] decision making model.
 
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-[ayojs/charter]: https://github.com/ayojs/charter
